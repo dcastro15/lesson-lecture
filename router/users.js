@@ -6,7 +6,7 @@ router.get("/faculty", (req, res) => {
         fid: 1,
         name: "Dennis Castro",
         city: "Toronto",
-        college: "Seneca College2"
+        college: "Seneca College23"
     }
     res.send(faculty)
 });
